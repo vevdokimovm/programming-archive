@@ -1,0 +1,13 @@
+# ninja log v5
+0	88	1664302959439431121	CMakeFiles/Polymorphism.dir/main.cpp.o	71bf2b4988d2dd92
+1	1078	1664302960422178242	CMakeFiles/Polymorphism.dir/Utils.cpp.o	fcae0b9ff00206b0
+2	1091	1664302960437060835	CMakeFiles/Polymorphism.dir/Interface.cpp.o	4999480916e0b6e9
+3	1100	1664302960445642878	CMakeFiles/Polymorphism.dir/InterfaceStringVector.cpp.o	8d81f2ad3c57af52
+4	1122	1664302960467260706	CMakeFiles/Polymorphism.dir/InterfaceStringList.cpp.o	54d17763fcece332
+2	1141	1664302960486735398	CMakeFiles/Polymorphism.dir/StringList.cpp.o	fe121a4be4203fe2
+1	1141	1664302960485043894	CMakeFiles/Polymorphism.dir/StringVector.cpp.o	db768a890a028825
+1141	1198	1664302960550632735	Polymorphism	17481d6f5b52c144
+8	866	1664372495647610988	CMakeFiles/Polymorphism.dir/Utils.cpp.o	fcae0b9ff00206b0
+866	999	1664372495785243013	Polymorphism	17481d6f5b52c144
+1	502	1664372613161532683	CMakeFiles/Polymorphism.dir/InterfaceStringVector.cpp.o	8d81f2ad3c57af52
+502	558	1664372613220469714	Polymorphism	17481d6f5b52c144
